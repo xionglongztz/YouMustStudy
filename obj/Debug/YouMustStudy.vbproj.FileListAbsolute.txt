@@ -1,0 +1,12 @@
+E:\VS项目\YouMustStudy\bin\Debug\YouMustStudy.exe.config
+E:\VS项目\YouMustStudy\bin\Debug\YouMustStudy.exe
+E:\VS项目\YouMustStudy\bin\Debug\YouMustStudy.pdb
+E:\VS项目\YouMustStudy\bin\Debug\YouMustStudy.xml
+E:\VS项目\YouMustStudy\obj\Debug\YouMustStudy.vbprojAssemblyReference.cache
+E:\VS项目\YouMustStudy\obj\Debug\YouMustStudy.Form1.resources
+E:\VS项目\YouMustStudy\obj\Debug\YouMustStudy.Resources.resources
+E:\VS项目\YouMustStudy\obj\Debug\YouMustStudy.vbproj.GenerateResource.cache
+E:\VS项目\YouMustStudy\obj\Debug\YouMustStudy.vbproj.CoreCompileInputs.cache
+E:\VS项目\YouMustStudy\obj\Debug\YouMustStudy.exe
+E:\VS项目\YouMustStudy\obj\Debug\YouMustStudy.xml
+E:\VS项目\YouMustStudy\obj\Debug\YouMustStudy.pdb
